@@ -1,9 +1,0 @@
-p.p= class p
-p.p{s}
-p.class#id{text}
-div.div>h1#h{this is text}                      +p{lorem5}
-div.div>h1#h{this is text}+p{lorem5}
-a[href=#] 
-li*4
-4 ta li
-a{$} 1 2 3 4
